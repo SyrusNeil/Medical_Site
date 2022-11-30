@@ -1,0 +1,28 @@
+body{
+    margin: auto;
+    font-family: sans-serif;
+    background-color: aqua;
+}
+.section{
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 40px;
+    width: 300px;
+    height: 100%;
+    margin: auto;
+    text-align: center;
+    align-items: center;
+
+}
+
+.section h1{
+    margin: auto;
+    width: 300px;
+    color: black;
+}
+.section p{
+    color: black;
+    align-items: center;
+
+}
